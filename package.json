@@ -1,0 +1,23 @@
+{
+  "name": "vekat.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vekat/vekat.github.io.git"
+  },
+  "author": "Vitor Cortez <vitor.a.cortez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vekat/vekat.github.io/issues"
+  },
+  "homepage": "https://github.com/Vekat/vekat.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0"
+  }
+}
